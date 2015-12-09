@@ -1,0 +1,36 @@
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\Advanced WebDriver.dll.config
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\Advanced WebDriver.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\Advanced WebDriver.pdb
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\BotSuite.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\CredentialManagement.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\HtmlAgilityPack.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\Ionic.Zip.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\SikuliSharp.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\UBotPlugin.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\WebDriver.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\WebDriver.Support.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\HtmlAgilityPack.pdb
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\bin\Debug\HtmlAgilityPack.xml
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\obj\Debug\MainWindow.baml
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\obj\Debug\MainWindow.g.cs
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\obj\Debug\Advanced WebDriver_MarkupCompile.cache
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\obj\Debug\Advanced WebDriver.g.resources
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\obj\Debug\Advanced_WebDriver.Properties.Resources.resources
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\obj\Debug\Advanced WebDriver.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\obj\Debug\Advanced WebDriver.dll
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\obj\Debug\Advanced WebDriver.pdb
+D:\Visual Studio\Projects\Advanced WebDriver\Advanced Webdriver\obj\Debug\Advanced WebDriver.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\Advanced WebDriver - Free\Advanced Webdriver\bin\Debug\Advanced WebDriver.dll.config
+D:\Visual Studio\Projects\Advanced WebDriver - Free\Advanced Webdriver\bin\Debug\Advanced WebDriver.dll
+D:\Visual Studio\Projects\Advanced WebDriver - Free\Advanced Webdriver\bin\Debug\Advanced WebDriver.pdb
+D:\Visual Studio\Projects\Advanced WebDriver - Free\Advanced Webdriver\bin\Debug\UBotPlugin.dll
+D:\Visual Studio\Projects\Advanced WebDriver - Free\Advanced Webdriver\bin\Debug\WebDriver.dll
+D:\Visual Studio\Projects\Advanced WebDriver - Free\Advanced Webdriver\bin\Debug\WebDriver.xml
+D:\Visual Studio\Projects\Advanced WebDriver - Free\Advanced Webdriver\obj\Debug\Advanced_WebDriver.Properties.Resources.resources
+D:\Visual Studio\Projects\Advanced WebDriver - Free\Advanced Webdriver\obj\Debug\Advanced WebDriver.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\Advanced WebDriver - Free\Advanced Webdriver\obj\Debug\Advanced WebDriver.dll
+D:\Visual Studio\Projects\Advanced WebDriver - Free\Advanced Webdriver\obj\Debug\Advanced WebDriver.pdb
